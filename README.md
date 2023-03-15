@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm <b>Md Bikasuzzaman</b></h1>
 <h3 align="center">Highly motivated student on <b>Machine learning field</b>.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikas0&label=Profile%20views&color=0e75b6&style=flat" alt="bikas0" /> </p>
+//<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikas0&label=Profile%20views&color=0e75b6&style=flat" alt="bikas0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikas0" alt="bikas0" /></a> </p>
+//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikas0" alt="bikas0" /></a> //</p>
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Computer Vision & NLP**
 
