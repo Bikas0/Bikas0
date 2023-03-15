@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md Bikasuzzaman</h1>
-<h3 align="center">Highly motivated student on Machine learning field.</h3>
+<h1 align="center">Hi 👋, I'm <b>Md Bikasuzzaman</b></h1>
+<h3 align="center">Highly motivated student on <b>Machine learning field</b>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikas0&label=Profile%20views&color=0e75b6&style=flat" alt="bikas0" /> </p>
 
