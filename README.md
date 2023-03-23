@@ -24,4 +24,4 @@
 <p><b><u>Review from Clients</u></b></p>
 
 <!-- ![Acheive](https://user-images.githubusercontent.com/66817101/225277076-1e65849e-e2fb-4e2b-a0ed-1e9de9cf9a94.png) -->
-<img src="https://user-images.githubusercontent.com/66817101/225277076-1e65849e-e2fb-4e2b-a0ed-1e9de9cf9a94.png" width="1000" title="review" />
+<img src="https://user-images.githubusercontent.com/66817101/225277076-1e65849e-e2fb-4e2b-a0ed-1e9de9cf9a94.png" width="1000" height="400" title="review" />
