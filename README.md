@@ -4,7 +4,7 @@
 
 
 
-- 💬 Ask me about **Deep Learning, Machine Learning, Computer Vision & NLP**
+- 💬 Ask me about __**Deep Learning, Machine Learning, Computer Vision & NLP**__
 
 - 📫 How to reach me **bikasictiu1718@gmail.com**
 
