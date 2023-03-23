@@ -22,9 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikas0&show_icons=true&locale=en" alt="bikas0" /></p>
 <p><b><u>Review from Clients</u></b></p>
-```python
-   print("Visit my repo")
-```
----
+
 <!-- ![Acheive](https://user-images.githubusercontent.com/66817101/225277076-1e65849e-e2fb-4e2b-a0ed-1e9de9cf9a94.png) -->
 <img src="https://user-images.githubusercontent.com/66817101/225277076-1e65849e-e2fb-4e2b-a0ed-1e9de9cf9a94.png" width="1000" height="400" title="review" />
