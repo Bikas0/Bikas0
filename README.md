@@ -24,5 +24,4 @@
 <h1 style="color: blue;"><b><u>Review from UPWORK and FIVERR Clients</u></b></h1>
 
 ![Acheive](https://user-images.githubusercontent.com/66817101/225277076-1e65849e-e2fb-4e2b-a0ed-1e9de9cf9a94.png)
-![FIVERR REVIEW](https://github.com/Bikas0/Bikas0/assets/66817101/e6732dba-574e-4e60-a029-128a7c034c0e)
 
