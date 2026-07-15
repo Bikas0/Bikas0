@@ -4,9 +4,9 @@
 
 
 
-- 💬 Ask me about __**Deep Learning, Machine Learning, Computer Vision & NLP**__
+- 💬 Ask me about __**Agentic AI, Deep Learning, Machine Learning, Computer Vision & NLP**__
 
-- 📫 How to reach me **bikasictiu1718@gmail.com**
+- 📫 How to reach me **bikas.ict.iu.bd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikas0&show_icons=true&locale=en" alt="bikas0" /></p>
 <h1 style="color: blue;"><b><u>Review from UPWORK and FIVERR Clients</u></b></h1>
+As a Level 1 Seller on Fiverr, I have successfully completed 17+ AI and DevOps projects for clients worldwide. My expertise includes Artificial Intelligence, Machine Learning, MLOps, DevOps, Docker, Kubernetes, FastAPI, Python, cloud deployment, automation, and data engineering.
+
+Client satisfaction has always been my highest priority, which is reflected in my 4.9/5 overall rating on Fiverr. I focus on delivering high-quality, scalable, and production-ready solutions while maintaining clear communication, meeting deadlines, and providing reliable post-project support.
+
+The reviews from my Upwork and Fiverr clients reflect my commitment to professionalism, technical excellence, and long-term client success. Whether it's developing AI-powered applications, deploying cloud infrastructure, building CI/CD pipelines, or automating complex workflows, I strive to exceed client expectations with every project.
 
 ![Acheive](https://user-images.githubusercontent.com/66817101/225277076-1e65849e-e2fb-4e2b-a0ed-1e9de9cf9a94.png)
 
