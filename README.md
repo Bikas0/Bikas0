@@ -29,5 +29,6 @@ Client satisfaction has always been my highest priority, which is reflected in m
 
 The reviews from my <b>Upwork</b> and <b>Fiverr</b> clients reflect my commitment to <b>professionalism, technical excellence, and long-term client success</b>. Whether it's developing <b>AI-powered applications</b>, deploying <b>cloud infrastructure</b>, building <b>CI/CD pipelines</b>, or automating <b>complex workflows</b>, I strive to exceed client expectations with every project.
 </p>
+
 ![Acheive](https://user-images.githubusercontent.com/66817101/225277076-1e65849e-e2fb-4e2b-a0ed-1e9de9cf9a94.png)
 
